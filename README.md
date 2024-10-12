@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning c programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me hemu036@outlook.com
-- 😄 Pronouns: ...
+- 😄 Pronouns:debug easy 
 - ⚡ Fun fact: I'm an interest friendly programmer
 
 <!---
