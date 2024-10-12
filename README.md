@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hemanth Kumar Peddinti
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning c programming
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate
 - 📫 How to reach me hemu036@outlook.com
 - 😄 Pronouns:debug easy 
 - ⚡ Fun fact: I'm an interest friendly programmer
